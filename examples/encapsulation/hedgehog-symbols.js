@@ -1,4 +1,3 @@
-
 let Hedgehog = (function () {
     const speed = Symbol();
     class Hedgehog {
